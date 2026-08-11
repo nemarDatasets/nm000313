@@ -1,0 +1,1455 @@
+{
+ "dataset": "nm000313",
+ "moabb_class": "Mainsah2025_S2",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.Mainsah2025_S2.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-Mainsah2025-data/bigP3BCI-data/StudyS2",
+ "license": "CC-BY-4.0",
+ "doi": "10.13026/0byy-ry86",
+ "naming": "upstream_filenames_restored",
+ "n_files": 288,
+ "total_bytes": 2816351424,
+ "files": [
+  {
+   "file": "S2_01/SE001/Test/House/S2_01_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "d3ea2b37f28990cfb3313c9828252a61ebd28602786952259b84a0f432bcb5e5"
+  },
+  {
+   "file": "S2_01/SE001/Test/House/S2_01_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "cb45eb17ed6cdb39a36595523e23b367b4ba609d1e15780ff2fa695228513cdc"
+  },
+  {
+   "file": "S2_01/SE001/Test/House/S2_01_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "4be076f3db323df3fcaa889b0c35853280dcc0385c1257dc4ea3eeb638e23eb8"
+  },
+  {
+   "file": "S2_01/SE001/Test/Tool/S2_01_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "4b827bef90a496df2e9c3a28b946d01498bc6756ea0e44b786d0c51a37b68c1d"
+  },
+  {
+   "file": "S2_01/SE001/Test/Tool/S2_01_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "72f0f3ab95f0ca9e69a17e909121cc67144bfc94b2e6b5113b45e5c96dafd91b"
+  },
+  {
+   "file": "S2_01/SE001/Test/Tool/S2_01_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "6bb7c49fa832a9ff9f28966f7ce493f9e92205ff51fdd23076a212c11feb46e6"
+  },
+  {
+   "file": "S2_01/SE001/Train/House/S2_01_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "9ab182f3c0c4b85349cd29afaa673f5bf36c131fd9a388fe21ecd171c41d5434"
+  },
+  {
+   "file": "S2_01/SE001/Train/House/S2_01_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "00125db093444145e932646fa03b12266094af385d411ef10e0c5b603ed00e71"
+  },
+  {
+   "file": "S2_01/SE001/Train/House/S2_01_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "2dcde018d9567b24f352cfa174d0031ba3bddb12f4dd912215b7ed40fb0bdda6"
+  },
+  {
+   "file": "S2_01/SE001/Train/Tool/S2_01_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "7de58e681b893505fd37a82337cf64cae6a12bbbcf68c9a494f72a67f4205bec"
+  },
+  {
+   "file": "S2_01/SE001/Train/Tool/S2_01_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "0ea5dec9b7d101f74b9c1f79757cc78e44993134362f0b9e56c32f8e954ca6ff"
+  },
+  {
+   "file": "S2_01/SE001/Train/Tool/S2_01_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "ee98f591ab2fadb8431428347fcfe56350f93d812a455700a5552ec9126d6e99"
+  },
+  {
+   "file": "S2_02/SE001/Test/House/S2_02_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "0a1e36cc0a65010620f50cc779d6120a037d568ee9af839f78a5f80882595d96"
+  },
+  {
+   "file": "S2_02/SE001/Test/House/S2_02_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "761dad2f8cfc60220aef45b2533c32f91e8e2a011b56a2563fa341503e9a7fd7"
+  },
+  {
+   "file": "S2_02/SE001/Test/House/S2_02_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "acdbec253d0479309f34e59e96145f08fac25a26b1ce7e477f68ec776dd9639c"
+  },
+  {
+   "file": "S2_02/SE001/Test/Tool/S2_02_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "63d8ff6368f3b04f6535a5488dad05602f6653ab6c64e4f778b5dc68e973b143"
+  },
+  {
+   "file": "S2_02/SE001/Test/Tool/S2_02_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "aa547826174411153623249499376d05bc05d95c8a409bb1aa93adcdad133ac1"
+  },
+  {
+   "file": "S2_02/SE001/Test/Tool/S2_02_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "1dcd3e9dc8f7480c4593cb8170caac188fb3b0d8a70249e9fb2d2333c30e73c9"
+  },
+  {
+   "file": "S2_02/SE001/Train/House/S2_02_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "4f4c11059148318180f773e709a39ed02ce44ee273bf1eed463ccd01c2f6c427"
+  },
+  {
+   "file": "S2_02/SE001/Train/House/S2_02_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "6c53b0735229d0213a8fcff29a62d1b6f719118f8ff1a4cafde69159dd31335e"
+  },
+  {
+   "file": "S2_02/SE001/Train/House/S2_02_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "5a0192835d6e1354a061e5a5834c81449193ab70bdee4c38f9e64c684a29c017"
+  },
+  {
+   "file": "S2_02/SE001/Train/Tool/S2_02_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "18d10931ecd97944a7367d3074c60ac1f9542a50a152e53722589bc6cf292219"
+  },
+  {
+   "file": "S2_02/SE001/Train/Tool/S2_02_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "360c337754ba6f75704a0e666d0b73ea94103bbf33d4db43d61e6011bee12db6"
+  },
+  {
+   "file": "S2_02/SE001/Train/Tool/S2_02_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "2a88a65044f275423cafc4e95ceb1c49e17e5b2bdb13737a04927dd934d9b893"
+  },
+  {
+   "file": "S2_03/SE001/Test/House/S2_03_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "2c3a92e8b9c9ad11e73177be1ac9ce981336899b8b817d25d37cd5a8e19a076d"
+  },
+  {
+   "file": "S2_03/SE001/Test/House/S2_03_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "d79d63cc9736e8284b4176fc163f7cfd2c038440641090598f731470e800e99d"
+  },
+  {
+   "file": "S2_03/SE001/Test/House/S2_03_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "d6699aa58382f9703ccb503ef52632d0ea160882a5fb1c6e0da57b48bc6923d9"
+  },
+  {
+   "file": "S2_03/SE001/Test/Tool/S2_03_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "3cfc1b5ac80d4774ebd1c6070a1cf2008e280b399cbe60e730a11922b8bc78b7"
+  },
+  {
+   "file": "S2_03/SE001/Test/Tool/S2_03_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "a6b4b7e2d235c1d08eb9f8d5f9d6bf27ac3efd08570a1b05d0354b6276949e59"
+  },
+  {
+   "file": "S2_03/SE001/Test/Tool/S2_03_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "156db9fae03c7422da6d8d0f5fc8984b1454f2e44008ccf604f1fa719065ecd2"
+  },
+  {
+   "file": "S2_03/SE001/Train/House/S2_03_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "48b9d7951c0e68c59fea73e3f5f2990c137ef7136e08c3d5a1ba39b68384e75d"
+  },
+  {
+   "file": "S2_03/SE001/Train/House/S2_03_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "e7f841e71dbd379984e438ba6bdf8b76d450a6400edd6181cda80bc6646527ab"
+  },
+  {
+   "file": "S2_03/SE001/Train/House/S2_03_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "a351880fb9096585bd988d3a748cd4399b2b9ba8485e60a0209f997b7f1ab924"
+  },
+  {
+   "file": "S2_03/SE001/Train/Tool/S2_03_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "e6e5c86715bad6a836cfac417f2f3e3a96d09b63403ab3e59cf1a851fcbe2ffe"
+  },
+  {
+   "file": "S2_03/SE001/Train/Tool/S2_03_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "01230acdc2cb101d836b832e69abf8a7ac736bfc7bc9e6d7b0bb20d7bb98e0e8"
+  },
+  {
+   "file": "S2_03/SE001/Train/Tool/S2_03_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "15cb4645c1a5b3288567dc53d11ee78555b9ed75167490fe865af9cca4961dd4"
+  },
+  {
+   "file": "S2_04/SE001/Test/House/S2_04_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "60a9bb9662c047b75b983f37e584ac5a07e6df36abc05b1a6cf602f08e02c09f"
+  },
+  {
+   "file": "S2_04/SE001/Test/House/S2_04_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "cac12d9fa566fb50d790fff7192b1fa2e6226d0881e91ee72e147cb75aeb5fc3"
+  },
+  {
+   "file": "S2_04/SE001/Test/House/S2_04_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "ff2c6e40018d293a68cce944a71be59beec062555afe56dad09732cbf8357862"
+  },
+  {
+   "file": "S2_04/SE001/Test/Tool/S2_04_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "311406d4407bc41e824943123a78f4b51da14ac4024bbad79ea30ec6a90a1786"
+  },
+  {
+   "file": "S2_04/SE001/Test/Tool/S2_04_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "80c70baced75411800bf07c7cbd356327e0b65c217c43dbc55256badc387a43b"
+  },
+  {
+   "file": "S2_04/SE001/Test/Tool/S2_04_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "8800d961d1df9748c6db4974c238c069599ad64ed0ab37e8dfb4e8b59012b232"
+  },
+  {
+   "file": "S2_04/SE001/Train/House/S2_04_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "7806729829bbfd095447a3d56533863eb75c50e7fbc98d72e21792159b9366ca"
+  },
+  {
+   "file": "S2_04/SE001/Train/House/S2_04_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "8dfeae1d61ce7e6a999e5ed702e2b1e688b6f410aaee11922b0070015a49a0f2"
+  },
+  {
+   "file": "S2_04/SE001/Train/House/S2_04_SE001_House_Train04.edf",
+   "bytes": 9778998,
+   "sha256": "445b2e405d83594f4513da0b8ab52c0f1c2165d06648b6e281fa0ffd8be8baea"
+  },
+  {
+   "file": "S2_04/SE001/Train/Tool/S2_04_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "cd3c411fb82b2bece2dc43d783f552672999c607edc9553b305e9d68dfbf54cd"
+  },
+  {
+   "file": "S2_04/SE001/Train/Tool/S2_04_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "e990d4f76e59f539a223a4491f0a53bd5bc3e0517e5e35c35c19ae2903719404"
+  },
+  {
+   "file": "S2_04/SE001/Train/Tool/S2_04_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "2a3dbe1ba194f7f6e7e757459e03c9bbe43a42670235a74663c7c6b69a6ae171"
+  },
+  {
+   "file": "S2_05/SE001/Test/House/S2_05_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "02d4927d749e657c4f7dc372fc30f43b953b945bbb2e7c9b490285e52f4f86ce"
+  },
+  {
+   "file": "S2_05/SE001/Test/House/S2_05_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "b6517e512dbea866e8273f3516664cc16515e112aec5469a9b0de7e634986e99"
+  },
+  {
+   "file": "S2_05/SE001/Test/House/S2_05_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "8ab24642cbeb34951df084e358a1f6be11904e0591745b16704213f48587690e"
+  },
+  {
+   "file": "S2_05/SE001/Test/Tool/S2_05_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "12ebe930f937c29cf8ac503d4581d1f963b216c0ef315a245bc64a24f213877e"
+  },
+  {
+   "file": "S2_05/SE001/Test/Tool/S2_05_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "5e258c8f26eee38ad37fd063cf598e61d53e19f0c27cf8f75880e968f86d51bd"
+  },
+  {
+   "file": "S2_05/SE001/Test/Tool/S2_05_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "b97682d65f90939942d21fa7cf07e3060edd879d97fe0d80a50b53ddc22abf3a"
+  },
+  {
+   "file": "S2_05/SE001/Train/House/S2_05_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "168928a8d7dd665b8353f688f44cb03628c5f5f169db5c9ed5486f6773dab07c"
+  },
+  {
+   "file": "S2_05/SE001/Train/House/S2_05_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "9f1a56cf9a6928fd78158a624f7d1e2de74bbd9da1d503dce4762a7e54a029c2"
+  },
+  {
+   "file": "S2_05/SE001/Train/House/S2_05_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "5805002c304c0749ff0d5decb3ab89d2ec8fd0c0046cc349731769939c34226d"
+  },
+  {
+   "file": "S2_05/SE001/Train/Tool/S2_05_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "9d5e150b46716b6c93cf6f4ac2c9f7b6a2bc7fe6d91165c32e56438ddb1952cd"
+  },
+  {
+   "file": "S2_05/SE001/Train/Tool/S2_05_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "75cbb2381bfcc8f18e37265a13d62eae072213cd2fcdd74b9fb23fce94b0fa9d"
+  },
+  {
+   "file": "S2_05/SE001/Train/Tool/S2_05_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "105b4d5ee597a93b996460543aaf74efc6f79fd681ad85215f669f220ad2c9d5"
+  },
+  {
+   "file": "S2_06/SE001/Test/House/S2_06_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "c54a542875fbe9e66616108acbfb38c1ca801f99cc490b2dc58b089f56953a92"
+  },
+  {
+   "file": "S2_06/SE001/Test/House/S2_06_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "6ab8c3d454de106254eac3495071c13ca6fbdf9d60609fcaa16fb58340aa8078"
+  },
+  {
+   "file": "S2_06/SE001/Test/House/S2_06_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "e91cda7f5290093faac00d3d9c7d8ec94ab260e4459548ed4673aac345978b54"
+  },
+  {
+   "file": "S2_06/SE001/Test/Tool/S2_06_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "e599c0a8c167a9c468dae49a4a77f367055127d8a8210de9ace982759912af7a"
+  },
+  {
+   "file": "S2_06/SE001/Test/Tool/S2_06_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "92747d5c83ab1c670cf0a4cea47ab0e4e0a1010d62d4a1bf3c1bc95fa5f03827"
+  },
+  {
+   "file": "S2_06/SE001/Test/Tool/S2_06_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "4776c605c5c4c0dbaa6f9c4c51f5a32513bcb458c2d1b1c8a1db1b9da2850f48"
+  },
+  {
+   "file": "S2_06/SE001/Train/House/S2_06_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "f2c1356f56103df43139cb7f55c9884ae03d06625d4f63aec2153f9b5ceb7b61"
+  },
+  {
+   "file": "S2_06/SE001/Train/House/S2_06_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "dca4b277cf79de916f1b01cc2684bfd11d2e18711c63ff07c874f68894398492"
+  },
+  {
+   "file": "S2_06/SE001/Train/House/S2_06_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "790d57ec1b935ca31b8b192540d2775010fcbb272897067c0baed183baed128c"
+  },
+  {
+   "file": "S2_06/SE001/Train/Tool/S2_06_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "2d46667a7379656150f005a30be09afd5d800d90f127ebd207b7047eae6eb18f"
+  },
+  {
+   "file": "S2_06/SE001/Train/Tool/S2_06_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "acc5c91063bbe7c228ab0c382e3dee3d2b52f4af56514f01d62c53427cd0d7c2"
+  },
+  {
+   "file": "S2_06/SE001/Train/Tool/S2_06_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "cda0247f75161ea5a561888e4674f093a15af993c8e6a2fff36fa42a6c1aedc4"
+  },
+  {
+   "file": "S2_07/SE001/Test/House/S2_07_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "320a22f14b2199b1b4b19ed07eceeef5bb0351890ebe5c7cf4a3c7864c2273e6"
+  },
+  {
+   "file": "S2_07/SE001/Test/House/S2_07_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "63b9cea5c091e4a067fab5709856db37bbbcbe48621687389defeeaf9a20cf3d"
+  },
+  {
+   "file": "S2_07/SE001/Test/House/S2_07_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "4dea0f689517c646f36388f0c679b5620b7bc1e171f1c26a5c5bb132a9222cd2"
+  },
+  {
+   "file": "S2_07/SE001/Test/Tool/S2_07_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "959c0eab21a8a188d208ddeefe56fc5b7b6fa3d6e892c79e9effd51d69ed1578"
+  },
+  {
+   "file": "S2_07/SE001/Test/Tool/S2_07_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "e14113ce83c2476b101057347372c274b7d9866d5083566ef9ea61e7bbb8fb49"
+  },
+  {
+   "file": "S2_07/SE001/Test/Tool/S2_07_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "99dc63763eaa408d57f8ca23b3cf6433152021f6b3b0b340f0f4b2f62bae6b12"
+  },
+  {
+   "file": "S2_07/SE001/Train/House/S2_07_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "ec75a97b7ea5c155374f994a16dda363d5e55656f355f4b6922a34eb2adabcb2"
+  },
+  {
+   "file": "S2_07/SE001/Train/House/S2_07_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "7c85ab0cecb5e159dd5d2b96a50baac5dadddd40fac331d4dbd11cc40e8f3af0"
+  },
+  {
+   "file": "S2_07/SE001/Train/House/S2_07_SE001_House_Train04.edf",
+   "bytes": 9778998,
+   "sha256": "06e72911cd2fb2e039f64f02ac102ede61dd5318fe607693e99af9b3b7da349a"
+  },
+  {
+   "file": "S2_07/SE001/Train/Tool/S2_07_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "e08ffc9df0bc5f3acbaeb97ad2d86dee1eecf5f5082ee9a7ff05965cc166eb15"
+  },
+  {
+   "file": "S2_07/SE001/Train/Tool/S2_07_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "da4eb9c26e52ca1eaf0f016b530424fcb6545601388dacbd90f01891e247562a"
+  },
+  {
+   "file": "S2_07/SE001/Train/Tool/S2_07_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "6faff28ef192c5b47cc250a69428bd580ba1255919e2a2a175768c6d3be764a4"
+  },
+  {
+   "file": "S2_08/SE001/Test/House/S2_08_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "bec5179d5b28393b0af80d66b3d9c4c88e56d119ac67043e23d8faad6260706a"
+  },
+  {
+   "file": "S2_08/SE001/Test/House/S2_08_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "0d2b787116ac439422ace095ae8693a331b5626e8afc6813e73bcaf51df4a1b9"
+  },
+  {
+   "file": "S2_08/SE001/Test/House/S2_08_SE001_House_Test04.edf",
+   "bytes": 9778998,
+   "sha256": "c89c116cc9febd19da2fb95adf75c7a9387d8c4ebfbfbe543dc7d8fe6094046c"
+  },
+  {
+   "file": "S2_08/SE001/Test/Tool/S2_08_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "d1f109a05227c7b2bca399d97e34bd44106694af74bfb6bf77062aff2beba6cf"
+  },
+  {
+   "file": "S2_08/SE001/Test/Tool/S2_08_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "6e9b5bf44072bf0a7c61b97c7309efe759874c340cbbdc12153c6ac4979d7985"
+  },
+  {
+   "file": "S2_08/SE001/Test/Tool/S2_08_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "f9eede161ce2cca000ae7de1a16a43a612e4693871e59b09e284f0c363b8c1dd"
+  },
+  {
+   "file": "S2_08/SE001/Train/House/S2_08_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "6320a9ab27ec50189325f12e3fcdeb5845a7794b65ddf289eaddb3f83a17a521"
+  },
+  {
+   "file": "S2_08/SE001/Train/House/S2_08_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "84e9e2f55f270414338736c43357f7d101d25ec11ed0bd1dd2993e15bdb1683d"
+  },
+  {
+   "file": "S2_08/SE001/Train/House/S2_08_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "0967e29647e76345ffbf0396fc0c0a0930de416a2fde67638936d2eb04fdeb41"
+  },
+  {
+   "file": "S2_08/SE001/Train/Tool/S2_08_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "9cbed4f93d79e54deb91f8fa80a485f73cbb0afbb6810bed90854cc330b9ebb5"
+  },
+  {
+   "file": "S2_08/SE001/Train/Tool/S2_08_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "9a45c8beb0550ff80dde97ff4a98bf4987b20747a176353bea47792f88794afc"
+  },
+  {
+   "file": "S2_08/SE001/Train/Tool/S2_08_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "6bbd93ebeaf3e5e399d183b53f8bfb35aa7201956e18b1129725d78b79528454"
+  },
+  {
+   "file": "S2_11/SE001/Test/House/S2_11_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "db5bc05b788916b04a6c2bb799294675011d248320ed91eb3a24310cf8c1edad"
+  },
+  {
+   "file": "S2_11/SE001/Test/House/S2_11_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "ab0ae2c3d58ebb0327da486aab354eaf2712dd0908483521b7fa062a2a38ea72"
+  },
+  {
+   "file": "S2_11/SE001/Test/House/S2_11_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "d7ca24ac912b3ea8651b7327bec8dddd58c81f1fc10d120cbd4bc417e07d680b"
+  },
+  {
+   "file": "S2_11/SE001/Test/Tool/S2_11_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "b06e9e362eb2bf02becde68c38dbb827bc5b1175658e6151423f21f2cc6ee64e"
+  },
+  {
+   "file": "S2_11/SE001/Test/Tool/S2_11_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "4d0690cb423c6585ca303eacb77a4d087bbef515f2744f81b1ff967288d10dcf"
+  },
+  {
+   "file": "S2_11/SE001/Test/Tool/S2_11_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "1251f39aa2623f3b773ebd0fc7b03e62c079ec33be0796bb1e3b54df87ad607e"
+  },
+  {
+   "file": "S2_11/SE001/Train/House/S2_11_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "4c7723a27bdcccb30ab0b06f3c1d6ceff0b013c11ab39cb60f2143da35368b3c"
+  },
+  {
+   "file": "S2_11/SE001/Train/House/S2_11_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "fcf70e279f879042687a29375bdc9cc62ff9a2425e3fbecafa42657968d6baa9"
+  },
+  {
+   "file": "S2_11/SE001/Train/House/S2_11_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "cbe646f3d3ae087f93d618c1ebefcf7ba462385e9dba9c37db43788782a27ab0"
+  },
+  {
+   "file": "S2_11/SE001/Train/Tool/S2_11_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "c31fa7da41a7cd207cbceb8d9207ec766b8a14c1d123213b55a8aa1f479ee9b5"
+  },
+  {
+   "file": "S2_11/SE001/Train/Tool/S2_11_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "e437482934a8b17ffa54f21ab0cecc09f350478f8fb5ab923bffd020f062e46e"
+  },
+  {
+   "file": "S2_11/SE001/Train/Tool/S2_11_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "ab782dd5d51407a08122eda6b2e30335fcfd9b8a48e678d0e307d181fc41539d"
+  },
+  {
+   "file": "S2_12/SE001/Test/House/S2_12_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "42db1da0be00380c58dfb9a2b61d4a0d813ef2b6c056814a7d1a86b0181739ba"
+  },
+  {
+   "file": "S2_12/SE001/Test/House/S2_12_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "666bf7af29cd1472dc38804244131a6b034b462bf227494d0d788fcbdf5bd292"
+  },
+  {
+   "file": "S2_12/SE001/Test/House/S2_12_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "75a031a3b25805d0f71fef4ffe05bbeda4f9336e622b43f2653b221da6af1772"
+  },
+  {
+   "file": "S2_12/SE001/Test/Tool/S2_12_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "2f8146245760f8f8017d7209895db92f93d5b128dd4b21b093b493b9f03a37a6"
+  },
+  {
+   "file": "S2_12/SE001/Test/Tool/S2_12_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "cb699c23bccc2551836ccf70ca0b21ddbba3df24ca1b219189c8021c4834a770"
+  },
+  {
+   "file": "S2_12/SE001/Test/Tool/S2_12_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "585fa2f018f7b5ef48d5d4ef6dbd45f4e7ac3942c39d99378aae85a80ff8747a"
+  },
+  {
+   "file": "S2_12/SE001/Train/House/S2_12_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "736e26dfa09480ff83fad7c89f263a0cab3485e1186fbed7657b9e90454bebdc"
+  },
+  {
+   "file": "S2_12/SE001/Train/House/S2_12_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "1c3c2761d6c430fadfc85948a62e13c905392a89783bcd53aa7f42c7dcca6558"
+  },
+  {
+   "file": "S2_12/SE001/Train/House/S2_12_SE001_House_Train04.edf",
+   "bytes": 9778998,
+   "sha256": "a45b7e9551f8f2e340e7837af47307d4a79e553d6e2ee8971fd9f33200257db8"
+  },
+  {
+   "file": "S2_12/SE001/Train/Tool/S2_12_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "9b93e3cf3c2133f6ecf97f02f06b42de8765fa4ab46ea445e5d3b334d39bb75c"
+  },
+  {
+   "file": "S2_12/SE001/Train/Tool/S2_12_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "e605275853494a63f07488074864ad935b0b1cab79a11145b05b7c0b351524e2"
+  },
+  {
+   "file": "S2_12/SE001/Train/Tool/S2_12_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "ef4e17bf590a6525589a66dae74394b3f38d4b992687692440572dc436fbbdf5"
+  },
+  {
+   "file": "S2_13/SE001/Test/House/S2_13_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "b33d9e811f4b19a2fdee74df591fed7cf5b97bfa3915af7dd73dbb94679e478b"
+  },
+  {
+   "file": "S2_13/SE001/Test/House/S2_13_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "247837cb89bb98c2dcaae17f97dea12bab69707c1c59cbe7799ac3d2c4ea5f79"
+  },
+  {
+   "file": "S2_13/SE001/Test/House/S2_13_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "7ab90567933360a050b6318a90634e3d2981a0049921d9d7ba42bacbe7cba2d7"
+  },
+  {
+   "file": "S2_13/SE001/Test/Tool/S2_13_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "266f0cecca5ae3b94d05eef4558fa3ad791cb9d25b0d81ed54b5d11eabd18e4f"
+  },
+  {
+   "file": "S2_13/SE001/Test/Tool/S2_13_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "50c6e1162e529fb40797710da9a29c0d86cb6ab13c1fa26ca7ee8befa9525780"
+  },
+  {
+   "file": "S2_13/SE001/Test/Tool/S2_13_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "f2513019478c9f00b55098de28b7042962727277d15c174d9e483366cc3842ab"
+  },
+  {
+   "file": "S2_13/SE001/Train/House/S2_13_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "de6676dfd24adb04d52f9ab08dd9329500b48d5d05f10ac086d1f47d0738488e"
+  },
+  {
+   "file": "S2_13/SE001/Train/House/S2_13_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "514b459c46c29a3bd8624eec7b4bfd8452539452e733531eee2e8f528f2c2e7e"
+  },
+  {
+   "file": "S2_13/SE001/Train/House/S2_13_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "43cc206273e073b935cf3694f3f545bc392972fabc94f44956258eef8b8b2748"
+  },
+  {
+   "file": "S2_13/SE001/Train/Tool/S2_13_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "fc1add63ee78e7fde9721f1650c4c19c334c594e8a0e00901c6e3fa52d35b8cf"
+  },
+  {
+   "file": "S2_13/SE001/Train/Tool/S2_13_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "cfef9a53e6af6b146066b58382c540c90f5fd168a760bfeea08c56195237edfd"
+  },
+  {
+   "file": "S2_13/SE001/Train/Tool/S2_13_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "4308c3f41e4c83612638e5b9489de27440282c1fe6c80a025d053ca8cff8dd95"
+  },
+  {
+   "file": "S2_14/SE001/Test/House/S2_14_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "6d5b6a43eaa058d5277e5c4ad7a72a12565a9232e85f4ec213cf320bdc896173"
+  },
+  {
+   "file": "S2_14/SE001/Test/House/S2_14_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "fdc8521a3eb2a6a4666332ae677d723104f6e927f56bebf1c695aac88d6b0e52"
+  },
+  {
+   "file": "S2_14/SE001/Test/House/S2_14_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "35a77346918c34c3cc6682b83a916a95cef3901fc5701073fd51e095d886d22a"
+  },
+  {
+   "file": "S2_14/SE001/Test/Tool/S2_14_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "ff6f394d3b13533175b5187c1f10c05a149f2a024effdf479a2665638331a71a"
+  },
+  {
+   "file": "S2_14/SE001/Test/Tool/S2_14_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "b582a3184c67c3f44796883b9645dec30b4e837eb20c0150b450db9f348d9f4f"
+  },
+  {
+   "file": "S2_14/SE001/Test/Tool/S2_14_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "d6e7b900544513d9838c64a69d071ffea8a310f59ce8bc6d29b2f8b519551fbf"
+  },
+  {
+   "file": "S2_14/SE001/Train/House/S2_14_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "37cfde7be75c2b03c3470490586b7a6bdfa69d274e52900dfacf692f98c848a0"
+  },
+  {
+   "file": "S2_14/SE001/Train/House/S2_14_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "0e62ca2d6607af3818da53a9b04e130bbeb606bb6a9544102e1ea91491d401c1"
+  },
+  {
+   "file": "S2_14/SE001/Train/House/S2_14_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "ece5014699db6f6c108f6e256c9b3e0bcbab6e14c4e26a23b7598bceefa2761a"
+  },
+  {
+   "file": "S2_14/SE001/Train/Tool/S2_14_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "77729b1b83f568123cb670896af4b452e57623f25d597232bff6e9b724286554"
+  },
+  {
+   "file": "S2_14/SE001/Train/Tool/S2_14_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "4b4693a4ca24d9385d597fb2958146be2e24396b723ffc5ebd031b2e379e3875"
+  },
+  {
+   "file": "S2_14/SE001/Train/Tool/S2_14_SE001_Tool_Train04.edf",
+   "bytes": 9778998,
+   "sha256": "11eee4e60f87d5c1ea891d9ef9c496bea8ae16f12d3597e135f0a16a89d1a560"
+  },
+  {
+   "file": "S2_15/SE001/Test/House/S2_15_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "8959bd123585b1bc91d562fb61f152a0b5f1bc176bc000cc431554a4c6358507"
+  },
+  {
+   "file": "S2_15/SE001/Test/House/S2_15_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "6dfcd8d54c0a5e90bbcb66450d3702766e55d06e5123124307a0d8efb0e94784"
+  },
+  {
+   "file": "S2_15/SE001/Test/House/S2_15_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "e7f4749da3f234577dace2db7254ac7a3a00749e7a5ca05913bb272dc2dac538"
+  },
+  {
+   "file": "S2_15/SE001/Test/Tool/S2_15_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "13279ba1c795b4fa303d43867ca8b5810839f09edfb32f78097c604bd14dcba3"
+  },
+  {
+   "file": "S2_15/SE001/Test/Tool/S2_15_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "a2a393cbf16f4878c11ef89fbfa1be679d85a0678d77136ac3ba63da06297390"
+  },
+  {
+   "file": "S2_15/SE001/Test/Tool/S2_15_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "73359be8b09b98604632af323df45f2b6aa3d0b76e285339a832ba05fc3fad49"
+  },
+  {
+   "file": "S2_15/SE001/Train/House/S2_15_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "a9d7e639dea551b763c820220a5ba5cfc9e1940b7ba107a78b74ed20350f37d4"
+  },
+  {
+   "file": "S2_15/SE001/Train/House/S2_15_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "5dc84798fefa651bf46f52d67f95e047fa5da6ac89161c1dc8ec09864077747d"
+  },
+  {
+   "file": "S2_15/SE001/Train/House/S2_15_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "b789d1aee9766c9c99b228ce11950148e3ca8e6e5a4bf89da35d505f601dee46"
+  },
+  {
+   "file": "S2_15/SE001/Train/Tool/S2_15_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "26015cf3360850b652d907c1868ad1444d8a85f9ec80314421c41888ef6acc55"
+  },
+  {
+   "file": "S2_15/SE001/Train/Tool/S2_15_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "994a1f3b0b40219e3057d1f9d5a662eabc181e7116ccfb56e1b85044d0a5c1e4"
+  },
+  {
+   "file": "S2_15/SE001/Train/Tool/S2_15_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "d065f6120b299a046b4374c0351417bafd5896e939a644145ee20f66446be9cf"
+  },
+  {
+   "file": "S2_16/SE001/Test/House/S2_16_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "eb0ab26d5cc7813470b01de457ae283dfeaf66bff4396428ccf2a90268ed79f6"
+  },
+  {
+   "file": "S2_16/SE001/Test/House/S2_16_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "2fbdde17e35b5fe401e01f61da65ef01ab8183e251072b1659d92f2633519395"
+  },
+  {
+   "file": "S2_16/SE001/Test/House/S2_16_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "9b69d6c82e37d83ebde7a7d04f41aa494e77513e001371e20599ff8276736ff0"
+  },
+  {
+   "file": "S2_16/SE001/Test/Tool/S2_16_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "265cbacd8a0f2a52eb92cecc764d11678960e679df398b66b25700625f11c9cd"
+  },
+  {
+   "file": "S2_16/SE001/Test/Tool/S2_16_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "91f30d0365478f6a555904e607acbb6c533d821f033dce62d4a9afe313f6cc60"
+  },
+  {
+   "file": "S2_16/SE001/Test/Tool/S2_16_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "19f529fb01a6895a3f51de2f5eef03ac492d4916c8987e3928c2273d68575cfe"
+  },
+  {
+   "file": "S2_16/SE001/Train/House/S2_16_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "b29339b58d5090cd25b682f177b8557fc945515a9ed6d9f616b2accbb02656f3"
+  },
+  {
+   "file": "S2_16/SE001/Train/House/S2_16_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "20b94a240947ba34f651587991a03cc72d0ba04554950f8dc8b63ed450e9c9ab"
+  },
+  {
+   "file": "S2_16/SE001/Train/House/S2_16_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "c4b622c772c4060cdd832121b49c0ac0461362b9fffdb8086a2d995a1c1b3d98"
+  },
+  {
+   "file": "S2_16/SE001/Train/Tool/S2_16_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "cc132e2e4b375eba2b9a1ae9b2b1ca768d41b28b6f8f745f976ffea0a611245e"
+  },
+  {
+   "file": "S2_16/SE001/Train/Tool/S2_16_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "bdce589d6061ed24db753a273fe9cc9dbc34a01ecacc4b5264c63fca2a668034"
+  },
+  {
+   "file": "S2_16/SE001/Train/Tool/S2_16_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "f8fa11a877c3a570dc1e8b42ca716f9880b7e5ed2a9d2654d097bbf15b8b29cd"
+  },
+  {
+   "file": "S2_17/SE001/Test/House/S2_17_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "a91b5265c6c8337e909ead452ac093247beffe4e438728876fa70fcc6540b1ae"
+  },
+  {
+   "file": "S2_17/SE001/Test/House/S2_17_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "070d095792d6859d75507a4c9d224414b74e9375a2a1cfaaa78004f1f16cb59b"
+  },
+  {
+   "file": "S2_17/SE001/Test/House/S2_17_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "5c84af80cb0d49c3599e2c0c3ff3c8b0707ee03639be910fee412b9f9fc18fb3"
+  },
+  {
+   "file": "S2_17/SE001/Test/Tool/S2_17_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "447948f0d53462eb01ffe7f99eee6b36341ac698b146318c9b689ab10ed35af9"
+  },
+  {
+   "file": "S2_17/SE001/Test/Tool/S2_17_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "9078faf9f5549ceb3615592a5c2faacaf10a5cb29e3fbd7c0441579c1c72157a"
+  },
+  {
+   "file": "S2_17/SE001/Test/Tool/S2_17_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "40be0d5af2c7295ec6e753ec44216b935547d5b04557699993fa46427c2df28a"
+  },
+  {
+   "file": "S2_17/SE001/Train/House/S2_17_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "51bcbfb1d3908416f190e84279e3af52320c7faeb900ba49b409b0ff29820b15"
+  },
+  {
+   "file": "S2_17/SE001/Train/House/S2_17_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "8fcf5387bea59e1b6f79a1f29edaaeb84da4c92cae3dd0c29c561c4425d7070e"
+  },
+  {
+   "file": "S2_17/SE001/Train/House/S2_17_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "426043a37c3af269a852661aaad692b70c3013ebdd6820593fc1558c238ed636"
+  },
+  {
+   "file": "S2_17/SE001/Train/Tool/S2_17_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "7f51c3f86d4486d8e6a8103a3e7ca91c6403a25fa0ab16b1ee2508ae19bce65c"
+  },
+  {
+   "file": "S2_17/SE001/Train/Tool/S2_17_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "5e86ae59fbe5608412d540c37981fb42915b664e2943fcfdb0ead450292e37df"
+  },
+  {
+   "file": "S2_17/SE001/Train/Tool/S2_17_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "f2002031a09f86d58cf90dee8dd392c453e36b84b9cd3c95974202ae68ab493c"
+  },
+  {
+   "file": "S2_18/SE001/Test/House/S2_18_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "663cc39ea7fff7f0c353083a39093e74910ae9fcde0550b462e10453fd71da66"
+  },
+  {
+   "file": "S2_18/SE001/Test/House/S2_18_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "30c9f8109f29da4fa935d86218a38cb0153b59fdd740b1936f563b183aeca5e6"
+  },
+  {
+   "file": "S2_18/SE001/Test/House/S2_18_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "1a0a35f1311eca47d92db100afd2c4f49884a9769296d95e08eb91109200d54a"
+  },
+  {
+   "file": "S2_18/SE001/Test/Tool/S2_18_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "5b072b244e91292a9f763190efbbdd936b6e12f23c79f31677c70da1f15a2bc9"
+  },
+  {
+   "file": "S2_18/SE001/Test/Tool/S2_18_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "3d75f5fbacb2f35c3910857cfbff5f6282913db3085288989ac59c8dae3d9087"
+  },
+  {
+   "file": "S2_18/SE001/Test/Tool/S2_18_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "ce4b935a1c7dca246f2f658e54061b6beeea304970ab2479896c83aa6a9481d8"
+  },
+  {
+   "file": "S2_18/SE001/Train/House/S2_18_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "249d12be596df0b7e85f621f67dc2c2c0d355427f3c65791973cdf544ba94fac"
+  },
+  {
+   "file": "S2_18/SE001/Train/House/S2_18_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "8aa31f524c9fd5a4d7f4f882c0470b318333ea8324c21056408165a0953b4d3f"
+  },
+  {
+   "file": "S2_18/SE001/Train/House/S2_18_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "224bf791270d8290c40ea188b4f639f1f7543272126f796a5acfd8f2aeb3474f"
+  },
+  {
+   "file": "S2_18/SE001/Train/Tool/S2_18_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "611f19013d4cb043d5e62e2764d9a23fd931e9bcb2ac2b914a38c36e96eae7c3"
+  },
+  {
+   "file": "S2_18/SE001/Train/Tool/S2_18_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "378a327ebd1c6a5eea2bbca5f90ef6aca5dd467e77e039314e011856abc8e77d"
+  },
+  {
+   "file": "S2_18/SE001/Train/Tool/S2_18_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "6745faeb709523ed72c965dacc1325b04c1d4c772f4ec45822bba41e76e4a2a1"
+  },
+  {
+   "file": "S2_19/SE001/Test/House/S2_19_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "5d90da5c610964b2f756533a066805d94e30bc91c93680fc287cccb5716da53b"
+  },
+  {
+   "file": "S2_19/SE001/Test/House/S2_19_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "7ef50ae9c63871bf3b97ac3a2a09b1eca8996a72672261add5c88f1209d5cc63"
+  },
+  {
+   "file": "S2_19/SE001/Test/House/S2_19_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "ad9544f14017161f29e3b893bab30eb49ad14932fa21a3c51b9ee82fa29660d6"
+  },
+  {
+   "file": "S2_19/SE001/Test/Tool/S2_19_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "64dc2bd9bedc4e14f424d569350c74a6785cbb34e81c90ddb7a74c83a79563ed"
+  },
+  {
+   "file": "S2_19/SE001/Test/Tool/S2_19_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "b7df035f163c3f233efef8663648826a30bba4cdd904718f410018aeaaa36fba"
+  },
+  {
+   "file": "S2_19/SE001/Test/Tool/S2_19_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "c322c1e96bd46a72174d7c7ccc15ba6cd7aef4474488403fec282ea09f88ca1d"
+  },
+  {
+   "file": "S2_19/SE001/Train/House/S2_19_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "8d90f383e428b9eae75adc42d6cf1d9b27a09fba52ac501c512a47fee90a2584"
+  },
+  {
+   "file": "S2_19/SE001/Train/House/S2_19_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "38c18cd569f724042571f06ef80a25501e1d476dae3eb8d8cd8bf6b9591e3b14"
+  },
+  {
+   "file": "S2_19/SE001/Train/House/S2_19_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "aa5abf1a4ba01c55e3270aff277fb959b4ba91dc3e194fa55a2bae19b12d58ce"
+  },
+  {
+   "file": "S2_19/SE001/Train/Tool/S2_19_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "815d454a37adff0bc178c2ff4f272b3e5f63907eb69360d2ec7d23d823e0455d"
+  },
+  {
+   "file": "S2_19/SE001/Train/Tool/S2_19_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "220aeec757b61d8af6b47b132a2d0d877abeffbe2b9b67597ddd26096df95732"
+  },
+  {
+   "file": "S2_19/SE001/Train/Tool/S2_19_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "f92453e1a37127fec53cbf907d77db7a667d49b6ad8f8fae70365c9833b3f3e6"
+  },
+  {
+   "file": "S2_20/SE001/Test/House/S2_20_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "c0c8d2ec8baa9e2b2e6f2c4a65be57c018180e8df460aa51185d85447f4fa1e0"
+  },
+  {
+   "file": "S2_20/SE001/Test/House/S2_20_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "fd047b65c673281ec26e8818a23681bbe8012afbabd4e9ae77837701aeba2547"
+  },
+  {
+   "file": "S2_20/SE001/Test/House/S2_20_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "e5c22d08ea9203af2836e2b69df64d33ebea7ea473d19dd2254862c18a5f7ba3"
+  },
+  {
+   "file": "S2_20/SE001/Test/Tool/S2_20_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "11b74e565886e09fc5814a777cdd89cabf9f996ef5a41480f37dbae757771871"
+  },
+  {
+   "file": "S2_20/SE001/Test/Tool/S2_20_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "278330e5a933fe025adb68100373bc31d39dd144b1ee258c233bbf9032e9ca42"
+  },
+  {
+   "file": "S2_20/SE001/Test/Tool/S2_20_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "141df89132b0996e3ba241c183250deaca5d329abf39cbd0b3419b106183c1ac"
+  },
+  {
+   "file": "S2_20/SE001/Train/House/S2_20_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "6fa5ddb33613cf034482bdb6a34f455420be39a1553ccfb10e263c6e70dbf0e8"
+  },
+  {
+   "file": "S2_20/SE001/Train/House/S2_20_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "697f5f405720fda0e718c01d8b966ec2de1db4311767789ac850259e0d2bf0a6"
+  },
+  {
+   "file": "S2_20/SE001/Train/House/S2_20_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "9f51b8907df12a5cb4a1e9e568e9d04cd7517ded72fcc4c6dd6fb8df0ca6495e"
+  },
+  {
+   "file": "S2_20/SE001/Train/Tool/S2_20_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "5045b489946ad932ad8c59d927c3098b38d40fc885deacd0a795ccb8a5629030"
+  },
+  {
+   "file": "S2_20/SE001/Train/Tool/S2_20_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "f726154b6688a90f42054e23666298defe2dd19eaad5f49395b70c8f8d1f0cd6"
+  },
+  {
+   "file": "S2_20/SE001/Train/Tool/S2_20_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "35b3df97117d6ac66b30169f7743bcd44ae13f9ac5e9635fdae3ab1b9a9942ec"
+  },
+  {
+   "file": "S2_21/SE001/Test/House/S2_21_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "4384ebeca50a1796fc68c04224246611c38ee6ebeb107371c9590f0fecc24f1b"
+  },
+  {
+   "file": "S2_21/SE001/Test/House/S2_21_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "707a0c0834989f758e6d50db6316b37f1b9cb51219f045d3bfdff78500d7baf9"
+  },
+  {
+   "file": "S2_21/SE001/Test/House/S2_21_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "f9b211f6121cca012b494d245218627cd7cc69d53579062fbc184bdee7c91256"
+  },
+  {
+   "file": "S2_21/SE001/Test/Tool/S2_21_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "091ffaa668b28ae8a81dd833dac6a4c451f3aa4a74fd8380509e3451e5f6aaba"
+  },
+  {
+   "file": "S2_21/SE001/Test/Tool/S2_21_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "6354879617f52a45b29d34f24721b62b0b3a3a9251488886de78fca3366f4c49"
+  },
+  {
+   "file": "S2_21/SE001/Test/Tool/S2_21_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "ef8c92ffc60de8650fc728f2080e399ee0603b5f7b946b2823db851bbe1efecf"
+  },
+  {
+   "file": "S2_21/SE001/Train/House/S2_21_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "cb203913c564e6161c4b3983437449e081b4deb7efe45c95a8176c9ff3d19b1d"
+  },
+  {
+   "file": "S2_21/SE001/Train/House/S2_21_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "1ca6e7bd47ccad099e823488dc984ba660cc3ee2f85a2a37d12566678110be79"
+  },
+  {
+   "file": "S2_21/SE001/Train/House/S2_21_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "2a15dd312f2478908f3213eaddabc91c17d319365c5e9aa1f15d256317d6ea7b"
+  },
+  {
+   "file": "S2_21/SE001/Train/Tool/S2_21_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "85c8959320c88fdc2459c9271b455bd4f50ca0e4b3fdf1c8a894909f51e689d7"
+  },
+  {
+   "file": "S2_21/SE001/Train/Tool/S2_21_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "4b17a00dca2857d4195c352978ec8daef566a179fc719001949d555b0d359020"
+  },
+  {
+   "file": "S2_21/SE001/Train/Tool/S2_21_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "de6402631d3bfb05377b0ec8bd9a795394f647ff3f9b4a9a07e6e8b27b168f9d"
+  },
+  {
+   "file": "S2_22/SE001/Test/House/S2_22_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "a23fde7aacd299d4df90af45cd85821a7ab1ab7842fd3f9f316c8c08d09f2f79"
+  },
+  {
+   "file": "S2_22/SE001/Test/House/S2_22_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "d6db5565e2a9fcae8e7e4061f4e24fd671ef933e595c1c6eddeb829c13705682"
+  },
+  {
+   "file": "S2_22/SE001/Test/House/S2_22_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "c4506f40ee108e8d047b79e37463bdea42d88d66b53336221f77816cdb4510bb"
+  },
+  {
+   "file": "S2_22/SE001/Test/Tool/S2_22_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "97f49b0935dc5e61888da285120423240cd383668146fe322440f7d907c6d81d"
+  },
+  {
+   "file": "S2_22/SE001/Test/Tool/S2_22_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "f2f62a8fd16463098afe0e17bf5be5b4c18647bcb7e4736ee394114b80934613"
+  },
+  {
+   "file": "S2_22/SE001/Test/Tool/S2_22_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "99eeda82ccf9590f85334ad4f38f3a3bd5172672be8e51f7c586d1fad72b0a49"
+  },
+  {
+   "file": "S2_22/SE001/Train/House/S2_22_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "c211fcc633005114d0a50bc61e5814c4eb07e27ba64845acb10f2198fdb96cf3"
+  },
+  {
+   "file": "S2_22/SE001/Train/House/S2_22_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "c8e4c0873d51fe27d032e4ea60b24d3db2db4d0410e31562257e1831e7827415"
+  },
+  {
+   "file": "S2_22/SE001/Train/House/S2_22_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "803c080a765d02580acb4e2e6d01a71915e5cf4d25890e03e9613e276278f133"
+  },
+  {
+   "file": "S2_22/SE001/Train/Tool/S2_22_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "a9ecc23a3200ea6a129ff8e27c9da66bcb8b8c75f38d75dbb0d14106ec4a26cb"
+  },
+  {
+   "file": "S2_22/SE001/Train/Tool/S2_22_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "738f3001ffefb2c1020fdac35038d1d14e6840d394405a6f54f9ab9b1645af6c"
+  },
+  {
+   "file": "S2_22/SE001/Train/Tool/S2_22_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "844bfbbdbd4cd1ec15776265af0e974582f9cfe5cedf0a3bccf46c3c90d7ba8d"
+  },
+  {
+   "file": "S2_25/SE001/Test/House/S2_25_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "7dd459d5ee33bfbc4b3518da1e9e85f84c0f239079c8496ff8d0c0d38d47afec"
+  },
+  {
+   "file": "S2_25/SE001/Test/House/S2_25_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "f7232ff14f7d8f27188d5dc0355411202b08265e2236b942b30c7f3b0af282b6"
+  },
+  {
+   "file": "S2_25/SE001/Test/House/S2_25_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "f3c8cfb3adbe98043a7774c2f91fef6a79e2694b0e4fdbac6954050272695357"
+  },
+  {
+   "file": "S2_25/SE001/Test/Tool/S2_25_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "a88bb2a63aab17dc0fa2a8541c36e9e86d30955d8466b683075f19d40518b1cf"
+  },
+  {
+   "file": "S2_25/SE001/Test/Tool/S2_25_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "67b21ca3ebdb4061563451773b4b21fb086c4373c374a70167b826555490aa16"
+  },
+  {
+   "file": "S2_25/SE001/Test/Tool/S2_25_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "93fa7654254f4c2acd757bbb3948ec5e92b17d486b769cc4c6e2b6be9c279999"
+  },
+  {
+   "file": "S2_25/SE001/Train/House/S2_25_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "1787132b569895c077c21ccaf4e6a5f3055e2d95dd7906dfa92e0cea95415204"
+  },
+  {
+   "file": "S2_25/SE001/Train/House/S2_25_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "c8cf34e9215a86c980e61f427d07a55a659d72a98a4bb83c00f89a36a04fa40b"
+  },
+  {
+   "file": "S2_25/SE001/Train/House/S2_25_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "9f886f1cb8c2f215cc0331d51b63a39d1b5dabd49288027ab3ae7927e8fa8b9a"
+  },
+  {
+   "file": "S2_25/SE001/Train/Tool/S2_25_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "eb88245877730c2a761b676baca6b5df501f9c582e7f556ee284c5206e7d2fcd"
+  },
+  {
+   "file": "S2_25/SE001/Train/Tool/S2_25_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "4564daa65fc24a5462bfa3355d9e21fb227209e2429190458206f8ad83166d43"
+  },
+  {
+   "file": "S2_25/SE001/Train/Tool/S2_25_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "e1d195d3b8fdbf97c0cc63852707aac68aa9c641fc75fe7bb1247cff04c131d2"
+  },
+  {
+   "file": "S2_26/SE001/Test/House/S2_26_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "cffcfe1f29f17b9640dab6e3aa4cbdd2022b14370212a72fec079d41f0e702a3"
+  },
+  {
+   "file": "S2_26/SE001/Test/House/S2_26_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "2f4af98995049c4a81bcb300f2fd1a32a22d8dba36aacbdfc4bf677a50fb8fc1"
+  },
+  {
+   "file": "S2_26/SE001/Test/House/S2_26_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "da92482524b5bc130664b4175ed4a4ce940fe494aeada94e3ecd2e6f784f8f94"
+  },
+  {
+   "file": "S2_26/SE001/Test/Tool/S2_26_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "8965cf7a86a4c03f0cd9088c55e4682ce549962ad3549e4ac31638fae781d088"
+  },
+  {
+   "file": "S2_26/SE001/Test/Tool/S2_26_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "1d03ba05a2c5621ab52c6b103a6a5b2ce680abf5d806cc8c3a28b6e21d2347f6"
+  },
+  {
+   "file": "S2_26/SE001/Test/Tool/S2_26_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "126754aabbeff8c3e91abe89d31ac1591247ceaec41fba303c90c5b7a7954780"
+  },
+  {
+   "file": "S2_26/SE001/Train/House/S2_26_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "c106f88b5054882c9f3e0440930d24756729b73151054fb32aec7a60ea3e5f51"
+  },
+  {
+   "file": "S2_26/SE001/Train/House/S2_26_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "66c259ce5dc3b4d013aa98a0d4b299ba5280607bc369b0c9d6523c7cfc2bdaee"
+  },
+  {
+   "file": "S2_26/SE001/Train/House/S2_26_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "bc9eea6d97927487e2d13d234d07b29cb684ee1492afee2f494b9ed19c254cee"
+  },
+  {
+   "file": "S2_26/SE001/Train/Tool/S2_26_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "23be94f6eab3b7fb1c4a5bc504e76015a52e091108e76b88b49cdda9ef14eceb"
+  },
+  {
+   "file": "S2_26/SE001/Train/Tool/S2_26_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "316d34d7efe1a3fabf577d8761522131c6150c7c0d197067d0b0acbf434af7b7"
+  },
+  {
+   "file": "S2_26/SE001/Train/Tool/S2_26_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "b8b9927bc19f2f332d26144d65c2d9ad7ec3d841c8eafa19abb431d94ab040ea"
+  },
+  {
+   "file": "S2_27/SE001/Test/House/S2_27_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "d8d2093f94eaa5f5a314b102dc727c5a5fcbd0e2d7197e94e969d63e019acfd7"
+  },
+  {
+   "file": "S2_27/SE001/Test/House/S2_27_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "e0733313ddb9bbb9bde0186da0b61316f3f0e579fc6bd372a41f88bdc64ec7fd"
+  },
+  {
+   "file": "S2_27/SE001/Test/House/S2_27_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "44440e57299ee280bdd3531bb903e882287d7609385d562cd4a101764ae28332"
+  },
+  {
+   "file": "S2_27/SE001/Test/Tool/S2_27_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "b97b4f9e2af3d89cf3e5e46e654d061ebc90d570b772661aea9267ab46fb3f55"
+  },
+  {
+   "file": "S2_27/SE001/Test/Tool/S2_27_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "0ef5b3d8329dce83e372f5956c6590286a494aae3095cbfaf8393f5901af40db"
+  },
+  {
+   "file": "S2_27/SE001/Test/Tool/S2_27_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "a3765be8cc32e96cf21a692ef46b5a6125d0b7f119470837e08468d446bc6a8b"
+  },
+  {
+   "file": "S2_27/SE001/Train/House/S2_27_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "f9857d64ff3f8bf43d6ce89615f1aa43e417d79453e651b42f75b1cb82ed1017"
+  },
+  {
+   "file": "S2_27/SE001/Train/House/S2_27_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "a96c67012ca478b2991a6ce884c5376d8d71841ace0b52b9a8c46169b39d0d1f"
+  },
+  {
+   "file": "S2_27/SE001/Train/House/S2_27_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "0b0b16eaa1843f47416b67808b52f37763ae4c67647278c251badbe93143dc7f"
+  },
+  {
+   "file": "S2_27/SE001/Train/Tool/S2_27_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "6819a446d4114d858797ee462a31ebc3d564aa84d9561b0aebfd54eba2459e94"
+  },
+  {
+   "file": "S2_27/SE001/Train/Tool/S2_27_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "d3c7145f7da351992e673fa67725e6d03d2105399e85b8445fc9b49f4536d514"
+  },
+  {
+   "file": "S2_27/SE001/Train/Tool/S2_27_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "f2f861830e68a7bbb2f5fe240d57213ccedcf032c9767d7277f39e085a45f9ec"
+  },
+  {
+   "file": "S2_28/SE001/Test/House/S2_28_SE001_House_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "d17ad37145f00970ef38ee4c80c0fe088554c2810718eba79225727e73b41686"
+  },
+  {
+   "file": "S2_28/SE001/Test/House/S2_28_SE001_House_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "aea4377a39d79610dfe4253a0e9eaf16b4625d90af7fa05b9421826cb7bf32ce"
+  },
+  {
+   "file": "S2_28/SE001/Test/House/S2_28_SE001_House_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "2e035fa6f767db1d35656e39081f2205db106432ee28eeade70668c9aec4b5ff"
+  },
+  {
+   "file": "S2_28/SE001/Test/Tool/S2_28_SE001_Tool_Test01.edf",
+   "bytes": 9778998,
+   "sha256": "f24b7b1bb873dc7f5f6bf064dbb6f33dff546528705a0b37cee00d0fc118b2b2"
+  },
+  {
+   "file": "S2_28/SE001/Test/Tool/S2_28_SE001_Tool_Test02.edf",
+   "bytes": 9778998,
+   "sha256": "c46774390a2d086b818e23c1a276c0d10160395513e7a2483ddb15daa8062299"
+  },
+  {
+   "file": "S2_28/SE001/Test/Tool/S2_28_SE001_Tool_Test03.edf",
+   "bytes": 9778998,
+   "sha256": "4fc8855c4d399b43798e9cfccc15b359eb5044348892dcaae31ce25e72f36870"
+  },
+  {
+   "file": "S2_28/SE001/Train/House/S2_28_SE001_House_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "5578e6881f150eac6d0a662448eae768c9d9a5e7acc24395bff7f7a388058745"
+  },
+  {
+   "file": "S2_28/SE001/Train/House/S2_28_SE001_House_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "5dbd537c7ed76021ff3c470d8ac4f2ed5292f259c1de3dcfa4e1af771a7eeff6"
+  },
+  {
+   "file": "S2_28/SE001/Train/House/S2_28_SE001_House_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "8683a0bfeb61d15ca0063f8a2a583bd0513dd7222d2cd6358467421571423902"
+  },
+  {
+   "file": "S2_28/SE001/Train/Tool/S2_28_SE001_Tool_Train01.edf",
+   "bytes": 9778998,
+   "sha256": "4df25f3a7768545c8e2d67500f4943264084d32e6daab2bf62fc0c3e3924f73a"
+  },
+  {
+   "file": "S2_28/SE001/Train/Tool/S2_28_SE001_Tool_Train02.edf",
+   "bytes": 9778998,
+   "sha256": "2900a36c649339072a7255ba2b9c205ddcb6775e64b170610c1ff40226a8fd21"
+  },
+  {
+   "file": "S2_28/SE001/Train/Tool/S2_28_SE001_Tool_Train03.edf",
+   "bytes": 9778998,
+   "sha256": "a0ba6193c4f1fb041b1594c2a256d06384525fbec5cc03b2c008f047a45bc515"
+  }
+ ]
+}
